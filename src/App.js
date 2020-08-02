@@ -13,7 +13,8 @@ function App() {
       <Router>
         <Header />
         <KataSambutan />
-        <Content />
+        {/* <h1></h1> */}
+        {/* <Content /> */}
         <Footer />
       </Router>
     </div>
