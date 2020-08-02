@@ -25,7 +25,7 @@ export const Wrapper = styled.div`
 `;
 
 export const WrapperTime = styled.div`
-  border: solid 1px red;
+  /* border: solid 1px red; */
   border-radius: 50%;
   width: 100px;
   height: 100px;
