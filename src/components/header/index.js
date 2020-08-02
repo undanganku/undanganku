@@ -1,6 +1,6 @@
 import React from "react";
 import { Wrapper } from "./styles";
-import Amplop from "../../img/images.png";
+import Amplop from "../../img/undanganku.png";
 
 function index() {
   return (
@@ -9,8 +9,8 @@ function index() {
         <div className="navbar-brand">
           <img
             src={Amplop}
-            width="40"
-            height="30"
+            width="50"
+            // height="30"
             class="d-inline-block align-top mr-3"
             alt=""
           />
