@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/undanganku/static/css/main.b62993c4.chunk.css",
-    "main.js": "/undanganku/static/js/main.9a58e93a.chunk.js",
-    "main.js.map": "/undanganku/static/js/main.9a58e93a.chunk.js.map",
+    "main.js": "/undanganku/static/js/main.ee7fff25.chunk.js",
+    "main.js.map": "/undanganku/static/js/main.ee7fff25.chunk.js.map",
     "runtime-main.js": "/undanganku/static/js/runtime-main.9fff4d69.js",
     "runtime-main.js.map": "/undanganku/static/js/runtime-main.9fff4d69.js.map",
     "static/css/2.9ff99f11.chunk.css": "/undanganku/static/css/2.9ff99f11.chunk.css",
     "static/js/2.468c8264.chunk.js": "/undanganku/static/js/2.468c8264.chunk.js",
     "static/js/2.468c8264.chunk.js.map": "/undanganku/static/js/2.468c8264.chunk.js.map",
     "index.html": "/undanganku/index.html",
-    "precache-manifest.abd8cfa2fbf1710140422288efedf3ba.js": "/undanganku/precache-manifest.abd8cfa2fbf1710140422288efedf3ba.js",
+    "precache-manifest.8cc421245a20c58d5b53aba11173439a.js": "/undanganku/precache-manifest.8cc421245a20c58d5b53aba11173439a.js",
     "service-worker.js": "/undanganku/service-worker.js",
     "static/css/2.9ff99f11.chunk.css.map": "/undanganku/static/css/2.9ff99f11.chunk.css.map",
     "static/css/main.b62993c4.chunk.css.map": "/undanganku/static/css/main.b62993c4.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.9ff99f11.chunk.css",
     "static/js/2.468c8264.chunk.js",
     "static/css/main.b62993c4.chunk.css",
-    "static/js/main.9a58e93a.chunk.js"
+    "static/js/main.ee7fff25.chunk.js"
   ]
 }
