@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d37dc682c92d824fe9fdf00f1dd4b58",
+    "revision": "98f847a8d06afa89ca38882df43d6614",
     "url": "/undanganku/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/undanganku/static/css/2.9ff99f11.chunk.css"
   },
   {
-    "revision": "b6964d87ccecf2c64b48",
+    "revision": "8b8e329f61c5c9b5e32d",
     "url": "/undanganku/static/css/main.b62993c4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/undanganku/static/js/2.468c8264.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6964d87ccecf2c64b48",
-    "url": "/undanganku/static/js/main.0417fc2a.chunk.js"
+    "revision": "8b8e329f61c5c9b5e32d",
+    "url": "/undanganku/static/js/main.9a58e93a.chunk.js"
   },
   {
     "revision": "2b7917173c11a7075d75",
