@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a82d78e8f82c1cff0c079aa1928d536",
+    "revision": "77a3a12bd1febd543662dcd710da0cb6",
     "url": "/undanganku/index.html"
   },
   {
