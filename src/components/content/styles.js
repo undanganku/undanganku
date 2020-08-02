@@ -59,6 +59,8 @@ export const Wrapper = styled.div`
 export const Tittle = styled.div`
   font-family: "Patrick Hand SC", cursive;
   font-size: 5rem;
+  width: 300px;
+  text-align: center;
 
   i {
     color: #d9628b;

@@ -11,19 +11,19 @@ function index() {
       <h1>Instagram Live</h1>
       <h4>Kalian juga bisa menyaksikan akad kami secara langsung</h4>
       <div className="d-flex justify-content-around link-instagram-mempelai">
-        <a
+        {/* <a
           href="https://www.instagram.com/pradetasukmarangga"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h5>@mempelaipria</h5>
-        </a>
+        </a> */}
         <a
-          href="https://www.instagram.com/pradetasukmarangga"
+          href="https://www.instagram.com/cyntiayoga"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h5>@mempelaiwanita</h5>
+          <h5>@cyntiayoga</h5>
         </a>
       </div>
     </Wrapper>

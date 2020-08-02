@@ -8,9 +8,10 @@ function index({ img, type, bapak, ibu, nama }) {
         <img width="100%" height="100%" src={img} alt="mempelai" />
       </FotoMempelai>
       <h3>{nama}</h3>
-      <h5>{type} dari</h5>
+      <h5>{type}</h5>
       <p>
-        Bapak {bapak} dan Ibu {ibu}
+        Bapak {bapak}
+        {/* dan Ibu {ibu} */}
       </p>
     </Wrapper>
   );

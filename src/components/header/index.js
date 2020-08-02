@@ -1,5 +1,6 @@
 import React from "react";
 import { Wrapper } from "./styles";
+import Amplop from "../../img/images.png";
 
 function index() {
   return (
@@ -7,12 +8,10 @@ function index() {
       <nav className="navbar navbar-light bg-light">
         <div className="navbar-brand">
           <img
-            src={
-              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EjfX6HMGZH09pRnJiQOIf4kr9iOM9wlsKoUZ3-uWS308GMQ&s"
-            }
-            width="50"
-            // height="30"
-            class="d-inline-block align-top"
+            src={Amplop}
+            width="40"
+            height="30"
+            class="d-inline-block align-top mr-3"
             alt=""
           />
           Wedding Invitation

@@ -8,7 +8,13 @@ function index() {
         Tidak ada solusi yang lebih baik bagi dua insan yang saling mencintai
         dibanding pernikahan
       </p>
-      <p>© 2020 · undangaku</p>
+      <a
+        href="http://sukmaranggapradeta.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <p>© 2020 · undangaku</p>
+      </a>
     </Wrapper>
   );
 }

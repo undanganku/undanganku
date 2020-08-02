@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0 12px;
+  padding-top: 28px;
 
   .instagram-icon {
     width: 150px;
@@ -25,6 +25,8 @@ export const Wrapper = styled.div`
   }
 
   @media only screen and (max-width: 768px) {
+    padding: 0 12px;
+
     .instagram-icon {
       width: 75px;
       height: 75px;
