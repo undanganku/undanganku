@@ -3,8 +3,16 @@
 }
 
 h1,
-h2 {
+h2,
+h3,
+h4,
+h5,
+p {
   font-family: "Patrick Hand SC", cursive;
+}
+
+.bg-grey {
+  background-color: #f8f9fa;
 }
 
 .App-logo {
@@ -16,6 +24,9 @@ h2 {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+body {
+  background-color: #f8f9fa;
 }
 
 .App-header {

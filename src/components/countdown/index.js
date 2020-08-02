@@ -38,8 +38,19 @@ function index() {
 
   return (
     <Wrapper>
-      <h1>Don't Miss It!</h1>
-      <Countdown date={"2020-07-11"} renderer={renderer}></Countdown>
+      <h1>Akan Menikah</h1>
+      <Countdown date={"2020-08-13"} renderer={renderer} />
+      <h3 className="mt-4">Kamis, 13 Agustus 2020</h3>
+      <div className="d-flex section-lokasi-acara justify-content-around">
+        <div>
+          <h5>Akad Nikah</h5>
+          08.00 - 09:00
+        </div>
+        <div>
+          <h5>Skukuran</h5>
+          12.00 - 14:00
+        </div>
+      </div>
     </Wrapper>
   );
 }

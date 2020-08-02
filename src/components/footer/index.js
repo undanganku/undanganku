@@ -4,11 +4,11 @@ import { Wrapper } from "./styles";
 function index() {
   return (
     <Wrapper className="page-footer d-flex justify-content-center flex-column">
-      <div>
+      <p>
         Tidak ada solusi yang lebih baik bagi dua insan yang saling mencintai
         dibanding pernikahan
-      </div>
-      <div>© 2020 · undangaku</div>
+      </p>
+      <p>© 2020 · undangaku</p>
     </Wrapper>
   );
 }

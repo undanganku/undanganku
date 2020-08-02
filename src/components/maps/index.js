@@ -1,10 +1,14 @@
 import React from "react";
 import { Wrapper } from "./styles";
+import LogoMaps from "../../img/love.png";
 
 function index() {
   return (
-    <Wrapper className="d-flex justify-content-center flex-column">
-      <h1>Google Maps</h1>
+    <Wrapper className="d-flex justify-content-center flex-column py-5">
+      <div className="d-flex justify-content-center map-icon">
+        <img width="100%" src={LogoMaps} alt="" />
+      </div>
+      <h1>Nama Tempat</h1>
       <div>
         <div>
           <iframe

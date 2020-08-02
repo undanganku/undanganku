@@ -4,13 +4,18 @@ import "./App.css";
 import Header from "./components/header";
 import Content from "./components/content";
 import Footer from "./components/footer";
+import KataSambutan from "./components/kata-sambutan";
+import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Content />
-      <Footer />
+      <Router>
+        <Header />
+        <KataSambutan />
+        <Content />
+        <Footer />
+      </Router>
     </div>
   );
 }
