@@ -66,6 +66,7 @@ export const Wrapper = styled.div`
   }
   .heart::before {
     background-color: #d9628b;
+    content: "";
     border-radius: 100%;
     height: 50px;
     width: 50px;
